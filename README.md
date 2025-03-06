@@ -25,6 +25,8 @@ Sigue estos pasos para compilar y ejecutar el juego en tu sistema:
    cd Juego-Snake-en-C
 
 2. **Ejecutar el codigo fuente**
+
+   
    Para Linux:
    ```bash
     gcc -o snake juego_snake.c
