@@ -6,7 +6,6 @@ Este proyecto es una implementación del clásico juego Snake utilizando el leng
 
 - **Interfaz de usuario**: Basada en la terminal, lo que permite su ejecución en sistemas operativos Linux y Windows.
 - **Controles**: Utiliza las teclas de flechas para mover la serpiente en las direcciones correspondientes.
-- **Pausa y salida**: Presiona la tecla 'P' para pausar el juego y 'ESC' para salir en cualquier momento.
 
 ## Requisitos
 
@@ -24,3 +23,11 @@ Sigue estos pasos para compilar y ejecutar el juego en tu sistema:
    ```bash
    git clone https://github.com/GilbertoFen/Juego-Snake-en-C.git
    cd Juego-Snake-en-C
+
+2. **Ejecutar el codigo fuente**
+   Para Linux:
+   ```bash
+    gcc -o snake juego_snake.c
+  Para Windows 
+  ```bash
+  ./snake
